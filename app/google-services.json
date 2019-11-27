@@ -1,52 +1,124 @@
 {
   "project_info": {
-    "project_number": "279433878197",
-    "firebase_url": "https://xamarinchatapp-35878.firebaseio.com",
-    "project_id": "xamarinchatapp-35878",
-    "storage_bucket": "xamarinchatapp-35878.appspot.com"
+    "project_number": "653073451946",
+    "firebase_url": "https://fir-demo-project-d0f2a.firebaseio.com",
+    "project_id": "fir-demo-project-d0f2a",
+    "storage_bucket": "fir-demo-project-d0f2a.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:279433878197:android:9f731b30a3f6c525",
+        "mobilesdk_app_id": "1:653073451946:android:fe0d1ee496c302a10a79d3",
+        "android_client_info": {
+          "package_name": "com.example.chatappredo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "653073451946-s6ruobi1ih5iqiqij9vl9kj2ja60jmca.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6_nTtBpDuuv0sRMm30kS5-e_f_E6682w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "653073451946-s6ruobi1ih5iqiqij9vl9kj2ja60jmca.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:653073451946:android:e0ac0f1c320d96c80a79d3",
+        "android_client_info": {
+          "package_name": "com.example.firebasedemoapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "653073451946-s6ruobi1ih5iqiqij9vl9kj2ja60jmca.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6_nTtBpDuuv0sRMm30kS5-e_f_E6682w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "653073451946-s6ruobi1ih5iqiqij9vl9kj2ja60jmca.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:653073451946:android:def689e4e245333e0a79d3",
+        "android_client_info": {
+          "package_name": "com.koddev.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "653073451946-s6ruobi1ih5iqiqij9vl9kj2ja60jmca.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6_nTtBpDuuv0sRMm30kS5-e_f_E6682w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "653073451946-s6ruobi1ih5iqiqij9vl9kj2ja60jmca.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:653073451946:android:ba6c3a1dbf886d410a79d3",
         "android_client_info": {
           "package_name": "dev.edmt.chatapp"
         }
       },
       "oauth_client": [
         {
-          "client_id": "279433878197-qooi4sh2ghg1dbhk2339n8a7csn8pau3.apps.googleusercontent.com",
-          "client_type": 1,
-          "android_info": {
-            "package_name": "dev.edmt.chatapp",
-            "certificate_hash": "B2A5D0D2FBDA1976D9EA02862DD4BEDF6CFD50E1"
-          }
-        },
-        {
-          "client_id": "279433878197-5tb8iahnquk075od67v0i9m659g257f4.apps.googleusercontent.com",
+          "client_id": "653073451946-s6ruobi1ih5iqiqij9vl9kj2ja60jmca.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyBVa8RYVf9ISfhCg0zuStLQj8rl1WeE6mc"
+          "current_key": "AIzaSyD6_nTtBpDuuv0sRMm30kS5-e_f_E6682w"
         }
       ],
       "services": {
-        "analytics_service": {
-          "status": 1
-        },
         "appinvite_service": {
-          "status": 2,
           "other_platform_oauth_client": [
             {
-              "client_id": "279433878197-5tb8iahnquk075od67v0i9m659g257f4.apps.googleusercontent.com",
+              "client_id": "653073451946-s6ruobi1ih5iqiqij9vl9kj2ja60jmca.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
-        },
-        "ads_service": {
-          "status": 2
         }
       }
     }
